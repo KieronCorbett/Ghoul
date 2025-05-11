@@ -1,0 +1,37 @@
+{
+    "messages": {
+        "age": 1369788647150190593,
+        "gender": 1369788651956867092,
+        "platform": 1369788656826454057,
+        "games": 1369788663952834591,
+        "pings": 1369788674702839864
+    },
+    "emoji_roles": {
+        "1369788647150190593": {
+            "\ud83d\udd1e": "18+",
+            "\ud83e\uddd2": "17-"
+        },
+        "1369788651956867092": {
+            "\ud83e\uddd4": "Male",
+            "\ud83d\udc69": "Female"
+        },
+        "1369788656826454057": {
+            "\ud83c\udfae": "Console",
+            "\ud83d\udcbb": "PC",
+            "\ud83d\udcf1": "Mobile"
+        },
+        "1369788663952834591": {
+            "\ud83c\udfaf": "Call Of Duty",
+            "\ud83d\udc79": "Dead By Daylight",
+            "\ud83e\uddf1": "Minecraft",
+            "\u2694\ufe0f": "Overwatch",
+            "\ud83e\udd16": "Roblox"
+        },
+        "1369788674702839864": {
+            "\ud83e\udd16": "Bot Updates",
+            "\ud83c\udf1f": "New Features",
+            "\ud83d\udcc5": "Server Events",
+            "\ud83d\udce2": "Announcements"
+        }
+    }
+}
